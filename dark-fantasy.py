@@ -3,7 +3,7 @@ from modules.scanner import scanner
 from modules.ftp import ftp
 from modules.banner import banner
 from modules.spider import spider
-from modules.email import Email
+from modules.email import email.py
 from modules.subdomain_scanner import scan_subdomains
 from modules.dir_buster import scan_urls
 
