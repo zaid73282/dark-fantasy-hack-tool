@@ -1,10 +1,9 @@
 from modules.clear_scr import clear_scr
-from modules.dos import dos
 from modules.scanner import scanner
 from modules.ftp import ftp
 from modules.banner import banner
 from modules.spider import spider
-from modules.email import email
+from modules.email import Email
 from modules.subdomain_scanner import scan_subdomains
 from modules.dir_buster import scan_urls
 
